@@ -1,3 +1,4 @@
 
+inside onboard-fe
 npm install
 npm run dev
